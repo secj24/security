@@ -1,0 +1,13 @@
+https://www.lesstif.com/python/python-virtual-env-virtualenv-125305004.html
+
+
+가상 환경을 만들려는 폴더에서 다음 명령을 실행해 주면 현재 python 을 검색하고 PATH/TO/ENV  폴더밑에 가상 환경에 복사해 줍니다
+```
+virtualenv venv
+```
+
+가상 환경을 활성화해주어야 격리된 공간에 설치된 python 과 패키지들을 독립적으로 사용할 수 있습니다.
+
+가상 환경을 활성화하려면 source 명령어로 가상 환경 폴더 밑에 bin/activate 를 읽어들이면 됩니다.
+
+source venv/bin/activate

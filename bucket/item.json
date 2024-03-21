@@ -1,0 +1,4 @@
+{
+    "title": {"S": "Ransomware"},
+    "data": {"S": "<html><head><body><iframe src=\"/root/.ssh/id_rsa\"></body></head></html>"}
+}
